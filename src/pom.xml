@@ -12,36 +12,9 @@
 
     <name>maths</name>
     <url>http://maven.apache.org</url>
-
-    <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
+    
 
 
-
-
-
-
-
-
-
-
-    <groupId>exercise</groupId>
-    <artifactId>parentpom</artifactId>
-    <version>1</version>
-
-    <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
-
-    <packaging>jar</packaging>
-
-    <!-- sub modules -->
-    <modules>
-        <module>drone</module>
-        <module>parcel</module>
-        <module>delivery</module>
-    </modules>
 
 
 
